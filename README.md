@@ -54,7 +54,6 @@ I enjoy working with data, building practical ML systems, and keeping things cle
 
 - 💪 I’m highly consistent and don’t quit easily  
 - 🧩 I enjoy breaking down complex problems and explaining them in a way even beginners can understand  
-- 📘 I like improving systems through continuous iteration and learning  
 - 😇 I naturally motivate others through clear and effective communication  
 - 🧠 I value clarity — in code, data, and thinking  
 
