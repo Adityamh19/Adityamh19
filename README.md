@@ -1,108 +1,50 @@
-<div align="center">
+Hi there! 👋
 
-# Aditya M Hiremath — AI & ML Engineer (India)
+I’m Aditya, a **Data Science & Machine Learning Engineer** based in India.  
+I enjoy working with data, building practical machine learning systems, and keeping solutions clean, structured, and easy to understand.
 
-</div>
+These days I’m focused on:
 
----
+📊 End-to-end machine learning projects using Python  
+🧠 Data analysis, feature engineering, and model evaluation  
+🔍 Turning raw data into clear, actionable insights  
+✨ Small, thoughtful projects with real-world relevance  
 
-I’m a Computer Science graduate specializing in **Artificial Intelligence & Machine Learning**, focused on building practical, data-driven systems with clean logic and real-world relevance.  
-I enjoy turning raw data into meaningful insights through well-structured pipelines, solid models, and clear visualizations.
+Some stuff I built:
 
-I care about **clarity, learning depth, and building things that actually work**.
+🩺 **Liver Disease AI Predictor**  
+An end-to-end machine learning system that analyzes patient biomarker data to classify liver disease into five stages using XGBoost and Random Forest models.
 
----
+🧑‍💼 **Customer Personality Analysis & Prediction**  
+A machine learning pipeline that segments customers into distinct personas using K-Means clustering and predicts customer behavior using Random Forest.
 
-## 🚀 Currently working with
+🧪 **Data Science & ML Mini Projects**  
+A collection of hands-on data science and machine learning projects, including spam classifiers, preprocessing utilities, and small ML applications developed through practical experimentation.
 
-- **Python & SQL** for data processing and analysis  
-- **Machine Learning** (Scikit-learn, XGBoost, Random Forest)  
-- **Exploratory Data Analysis & Feature Engineering**  
-- **Data visualization** using Matplotlib & Seaborn  
-- **Git, Linux basics, Docker basics**  
-- Building **end-to-end ML projects** with clean structure and evaluation  
+Things I work with:
 
----
+🐍 Python · SQL · Pandas · NumPy  
+📈 Scikit-learn · Matplotlib · Seaborn  
+🧠 Machine Learning · EDA · Feature Engineering · NLP (basics)  
+🛠️ Git · Linux (basics) · Docker (basics) · Jupyter Notebook  
 
-## 🧠 Selected projects
+Background:
 
-### 🩺 Liver Disease AI Predictor  
-A clinical diagnostic system that classifies liver disease into **five stages** using patient biomarker data.  
-Built with **Python, XGBoost, Scikit-learn, Streamlit**, achieving ~**95% accuracy** with robust preprocessing and ROC-AUC evaluation.
+🏢 **Student Intern — Python ML Foundation (VTUxRooman)**  
+🧪 Gained hands-on experience working on real-world data science and machine learning projects  
+🐧 Comfortable working in Linux environments and Git-based workflows  
 
----
+Fun facts:
 
-### 🧑‍💼 Customer Personality Analysis & Prediction  
-An ML pipeline that segments customers into **four personas (VIP, At-Risk, etc.)** for marketing intelligence.  
-Uses **K-Means** for clustering and **Random Forest** for prediction, with insights visualized via Matplotlib & Seaborn.
+💪 I am highly consistent and don’t quit easily  
+🧩 I enjoy breaking down complex problems and explaining them in a way even a beginner can understand  
+📘 I like improving systems through continuous iteration and learning  
+😇 I naturally motivate others through clear, confident, and effective communication  
+🧠 I value clarity — in code, data, and thinking  
 
----
+Connect with me:
 
-### 🧪 ML Mini Projects (Internship Work)  
-A collection of hands-on ML exercises including spam classifiers, preprocessing utilities, and small applications developed under structured mentorship.
+📫 Email: adityamh19@gmail.com  
+🔗 LinkedIn: linkedin.com/in/aditya-hiremath-320063375  
 
----
-
-## 🎓 Experience
-
-**Student Intern — Python ML Foundation (VTUxRooman)**  
-*Dec 2024 – Apr 2025*
-
-- Built multiple ML mini-projects reinforcing Python & ML fundamentals  
-- Worked on data preprocessing, model training, and evaluation  
-- Learned Git workflows and basic deployment concepts  
-- Strengthened problem-solving through guided, hands-on practice  
-
----
-
-## 🛠️ Technical stack
-
-**Languages**  
-Python · SQL · HTML · CSS  
-
-**Machine Learning & Data**  
-Machine Learning · NLP (basics) · EDA · Feature Engineering · Statistical Analysis  
-Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn  
-
-**Tools**  
-Git · Linux (basics) · Docker (basics) · Jupyter Notebook  
-
----
-
-## 🎓 Education
-
-**B.E. in Computer Science (AI & ML)**  
-BLDEA’s Vachana Pitamaha Dr. P.G. Halkatti College of Engineering and Technology  
-CGPA: **8.2**
-
----
-
-## 📜 Certifications
-
-- Data Science Certification — ExcelR  
-- Python Internship Completion Certificate  
-- Kick-Start AI Journey — Google Colab  
-
----
-
-## 🎯 Fun facts
-
-- I enjoy working quietly and deeply on problems  
-- Favorite anime: **Demon Slayer**
-
----
-
-## 🏋️ Hobbies
-
-- Anime  
-- Gym  
-
----
-
-<div align="center">
-
-📫 **Reach me at**  
-**Email:** adityamh19@gmail.com  
-**LinkedIn:** linkedin.com/in/aditya-hiremath-320063375  
-
-</div>
+Thanks for stopping by 🙂
