@@ -28,16 +28,17 @@ I enjoy working with data, building practical ML systems, and keeping things cle
 
 ### Things I work with:
 
-**Languages & Data**
-- Python · SQL · Pandas · NumPy  
+#### Languages & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Machine Learning**
-- Scikit-learn · XGBoost · Machine Learning  
-- Exploratory Data Analysis · Feature Engineering  
-- NLP (basics) · Model Evaluation  
-
-**Tools**
-- Git · Linux (basics) · Docker (basics) · Jupyter Notebook  
+#### Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A1A2F?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-0A1A2F?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-0A1A2F?style=for-the-badge)
 
 ---
 
@@ -61,7 +62,8 @@ I enjoy working with data, building practical ML systems, and keeping things cle
 
 ### Connect with me:
 
-- 📫 **Email:** adityamh19@gmail.com  
-- 🔗 **LinkedIn:** linkedin.com/in/aditya-hiremath-320063375  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-hiremath-320063375)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamh19@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Adityamh19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adityamh19)
 
 Thanks for stopping by 🙂
